@@ -10,5 +10,9 @@ public class Sample {
 		System.out.println("Code2");//Ashik
 
 	}
+	private void code3() {
+		System.out.println("Code3");//prince
+
+	}
 
 }
